@@ -1,1 +1,9 @@
 git hello
+Teamviewer 开机启动
+糖糖的专栏
+Teamviewer 开机启动
+依次进行如下操作
+git stash        将工作区恢复到上次提交的内容，同时备份本地所做的修
+git pull         拉取
+git stash pop    弹出自己最近保存的内容
+查看对应文件 解决冲突
